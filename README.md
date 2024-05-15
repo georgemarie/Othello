@@ -12,7 +12,9 @@ in the opposite figure. The game always begins with this
 setup.
 ### ● Then, the remaining 60 disks are divided between players
 such that each player has 30 disks.
-## How the game goes
+
+# How the game goes
+
 ### 1. When it’s a player’s turn, he must look for an empty square on the board that is adjacent to one of the opponent’s pieces. The player can add his disk there with his color facing upwards.
 ### 2. If the newly added disk encloses a straight horizontal row or vertical column of the opponent’s pieces between two disks of the player’s color, then it’s a legal move known as “outflanking”.
 ### 3. Once the player outflanks the opponent's disks, they are flipped over to the player’s color (i.e. the player captured them). The disks now count as the player’s pieces on the board even if he didn’t originally play them.
